@@ -1,4 +1,4 @@
-const Recipes = () => {
+const About = () => {
     return ( 
         <section>
             
@@ -6,4 +6,4 @@ const Recipes = () => {
      );
 }
  
-export default Recipes;
+export default About;
